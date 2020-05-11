@@ -6,6 +6,9 @@ I originally created this Pokédex in my junior year of high school as a small, 
 At the time, the national Pokédex was in generation 7, the Alola region.
 This cross-referencing ability was useful for teambuilding and breeding purposes.
 
+## Todo 🔮
+* [ ] Distinguish between generation 7 and generation 8 for relevancy.
+
 ---
 
 [![Buy me a Coffee](https://img.shields.io/badge/buy%20me%20a-coffee-%23FF813F)][bmac]
